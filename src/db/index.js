@@ -20,7 +20,6 @@ const connectDB = async  () => {
     }
 }
 
-connectDB()
 
 export    {connectDB};
 
